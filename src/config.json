@@ -1,0 +1,5 @@
+{
+  "api": { 
+    "invokeUrl": "https://mql5gssqj8.execute-api.eu-north-1.amazonaws.com/prod"
+  } 
+}
